@@ -1,4 +1,4 @@
-![banner](https://github.com/Y2M34/Y2M34/blob/master/Y2M34 - Github Banner.png)
+![banner](https://github.com/Y2M34/Y2M34/blob/master/banner.png)
 
 # **Y2M34** 
 
