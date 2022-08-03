@@ -1,10 +1,10 @@
-![banner](https://github.com/Y2M34/Y2M34/blob/master/banner.png)
+![banner](https://github.com/Y2M34/Y2M34/banner.png)
 
 # **Y2M34** 
 
 ![Y2M34's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y2M34&show_icons=true&theme=nord)
 
-![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Y2M34&layout=compact&theme=nord)
+![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Y2M34&theme=nord)
 
 ![Y2M34's github activity graph](https://activity-graph.herokuapp.com/graph?username=Y2M34&theme=nord)
 
