@@ -1,4 +1,4 @@
-![banner](https://github.com/Y2M34/Y2M34/banner.png)
+<img src="https://github.com/Y2M34/Y2M34/blob/main/image/banner.png?raw=true" width ="100%">
 
 # **Y2M34** 
 
