@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/110331815/183034505-39ca773f-fb46-49b4-bd40-1bf9a22cef3d.png)
+
+![banner-min](https://user-images.githubusercontent.com/110331815/183034927-0c0d0bdb-8186-471f-a270-a6018c4c3503.png)
 
 # **Y2M34** 
 
