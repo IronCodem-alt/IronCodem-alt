@@ -1,11 +1,11 @@
 
 ![banner-min](https://user-images.githubusercontent.com/110331815/183034927-0c0d0bdb-8186-471f-a270-a6018c4c3503.png)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="800">
 
 # **Y2M34** ![hello_1_1_30x30](https://user-images.githubusercontent.com/110331815/183247343-8944a4a4-f0ce-4ccd-b0cd-596cba25d7a9.gif)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="800">
 
 ## My Stats
 
@@ -19,7 +19,7 @@
  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Y2M34&theme=nord)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="800">
 
 
 ## Languages and Tools:
