@@ -1,5 +1,4 @@
-
-![banner-min](https://user-images.githubusercontent.com/110331815/183034927-0c0d0bdb-8186-471f-a270-a6018c4c3503.png)
+![Git Banner (1)](https://user-images.githubusercontent.com/110331815/183259032-bf3886fb-ecc1-4edb-a817-31951b9bbc5b.png)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="850">
 
