@@ -1,7 +1,7 @@
 
 ![banner-min](https://user-images.githubusercontent.com/110331815/183034927-0c0d0bdb-8186-471f-a270-a6018c4c3503.png)
 
-# **Y2M34** 
+# **Y2M34** ![hello_1_1_30x30](https://user-images.githubusercontent.com/110331815/183247343-8944a4a4-f0ce-4ccd-b0cd-596cba25d7a9.gif)
 
 ![Y2M34's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y2M34&show_icons=true&theme=nord)
 
