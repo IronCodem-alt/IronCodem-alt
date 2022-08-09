@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="850">
 
 # **Hello!** ![hello_1_1_30x30](https://user-images.githubusercontent.com/110331815/183247343-8944a4a4-f0ce-4ccd-b0cd-596cba25d7a9.gif)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=YashasDDev.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![](https://komarev.com/ghpvc/?username=YashasDDev&style=for-the-badge)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="850">
 
