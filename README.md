@@ -1,4 +1,4 @@
-![Git Banner (1)](https://user-images.githubusercontent.com/110331815/183259032-bf3886fb-ecc1-4edb-a817-31951b9bbc5b.png)
+![Banner (1)](https://user-images.githubusercontent.com/110331815/184522437-e5d7838c-3548-4c12-8f06-8269939b8e39.png)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="850">
 
@@ -20,6 +20,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YashasDDev&theme=nord)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="850">
+
 
 
 
